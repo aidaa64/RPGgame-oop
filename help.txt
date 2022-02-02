@@ -1,0 +1,19 @@
+Every win is 5 points and extra 5 health points add your chracter.
+_____________________________________________________
+Berserker Class:
+It has a high armor and health power but poor damage power.
+Low critical hit.
+_____________________________________________________________
+Archer Class:
+It has a middle attack damage but middle armor and low health.
+Medium critical hit
+_____________________________________________________________
+Warlock Class:
+It has a high damage power but poor armor and health.
+High critical hit.
+_____________________________________________________________
+Warrior Class:
+All statuses are balanced.
+Medium critical hit.
+_____________________________________________________________
+**************************************************************
